@@ -2,9 +2,9 @@
 
 # repositorio: https://github.com/SergioMorales96/Webflix
 
-# Sitio web: webflixprueba.000webhostapp.com
+# Sitio web: https://webflixprueba.000webhostapp.com
 
-# Administrador wordpress: https://webflixprueba.000webhostapp.com/
+# Administrador wordpress: https://webflixprueba.000webhostapp.com/wp-admin
 
 #                          usuario: sergio
 
